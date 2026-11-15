@@ -1,6 +1,4 @@
 # rag-knowledge-service
-Production-grade Retrieval-Augmented Generation (RAG) microservice built with FastAPI, featuring structured observability, async ingestion, and comprehensive test coverage.
-# rag-knowledge-service
 
 [![CI Status](https://shields.io)]()
 [![Python 3.12+](https://shields.io)]()
